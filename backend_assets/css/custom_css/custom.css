@@ -1,0 +1,15 @@
+.btn-primary {
+    color: #fff;
+    background-color: #b31a1a;
+    border-color: #1ab394;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus {
+    background-color: #b90617 !important;
+    border-color: #9e0917;
+    color: #FFFFFF;
+
+}
+.gray-bg, .bg-muted {
+    background-color: #f3d4d7;
+}
