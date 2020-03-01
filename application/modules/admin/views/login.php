@@ -44,7 +44,7 @@
             <?php echo form_open(base_url()."admin/login/update","id=login")?>
               <div class="form-group">
                 <input type="email" name="email" class="form-control" placeholder="Email/Username" >
-                <spsn class="text-danger error font_12" id="email_error" ></span>
+                <span class="text-danger error font_12" id="email_error" ></span>
               </div>
               <div class="form-group">
                 <input type="password" name="password" class="form-control" placeholder="Password" >
